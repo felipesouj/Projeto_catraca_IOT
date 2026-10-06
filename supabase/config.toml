@@ -1,0 +1,4 @@
+project_id = "igtdwhuymjaqpqyjwjwy"
+
+[functions.turnstile-access]
+verify_jwt = false
